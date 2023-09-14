@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onursaglik
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on get job
+- 💞️ I’m looking for a job
 - 📫 How to reach me, onur_saglik333@hotmail.com
 
 <!---
